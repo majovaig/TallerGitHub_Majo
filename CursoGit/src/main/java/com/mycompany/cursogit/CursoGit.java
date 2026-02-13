@@ -12,6 +12,6 @@ public class CursoGit {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("Hecho por María José! Hecho en el taller de ITSON");
+        System.out.println("Hecho por María José! Hecho en el taller de ITSONuyguhb");
     }
 }
